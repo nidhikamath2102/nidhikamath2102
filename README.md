@@ -3,6 +3,7 @@ I'm a Software Engineer with experience in mobile and web development, specializ
 
 🔭 I’m currently working on building myself<br>👯 I’m looking to collaborate on fun innovative ideas<br>🤝 You can reach me at nidhigovindrayak@gmail.com<br>🌱 I’m currently learning AI, Web, LLM, RAG<br>💬 Ask me about Flutter App Development and anything you like<br>⚡ Fun fact - I love to explore new places, dance, sing, walk, go the the gym 
 
+![](https://komarev.com/ghpvc/?username=nidhikamath2102&color=blue)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nidhikamath21) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nidhigovindrayak@gmail.com) 
@@ -20,6 +21,8 @@ I'm a Software Engineer with experience in mobile and web development, specializ
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=nidhikamath2102&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nidhikamath2102&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nidhikamath2102&icon=0&color=0)](https://visitcount.itsvg.in)
